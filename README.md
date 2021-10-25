@@ -1,6 +1,6 @@
 
 <div align = "center">
-  <img width="626" alt="사슴" src="https://user-images.githubusercontent.com/62981406/136650243-f24e5ade-70eb-4835-ab4c-2847ec9ba620.png" >
+  <img width="450" alt="사슴" src="https://user-images.githubusercontent.com/62981406/136650243-f24e5ade-70eb-4835-ab4c-2847ec9ba620.png" >
 
   ### 강한 사슴 개발법 
   
